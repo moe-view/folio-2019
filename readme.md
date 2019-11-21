@@ -17,3 +17,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+![エビフライトライアングル](1.png "サンプル")
